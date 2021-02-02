@@ -2,7 +2,7 @@
  
 ## Welcome! You are at the UH CASA Presentation Demo Repo.
 
-For presentation content, please check **slides.md**.
+For presentation content, please check **slides.md** and **Demo.docx** (download needed).
 
 Special thanks to 
 - My supervisor Shailesh.
